@@ -22,7 +22,7 @@
 - **Load Data via BashOperator**: Use `bq load` to load data from GCS to BigQuery.
 - **Load Data via GCSToBigQueryOperator**: Use Airflow’s `GCSToBigQueryOperator` for seamless BigQuery integration.
 
-# Chapter 6: Data Visualization
+# Chapter 6: Data Visualisation
 - **Create View**: Filter and convert data in BigQuery for reporting.
 - **Upload to Looker Studio**: Visualize data from BigQuery in Looker Studio.
 - **Sales Dashboard**: Create a dashboard showing sales performance.
